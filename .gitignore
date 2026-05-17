@@ -1,0 +1,46 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+Envs/
+
+# IDE and notebook checkpoints
+.idea/
+.vscode/
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Large datasets
+data/raw/
+data/processed/
+data/augmented/
+data/splits/
+images/
+
+# Trained model artifacts and experiment checkpoints
+models/
+experiments/
+*.keras
+*.h5
+*.hdf5
+*.ckpt
+*.pkl
+*.joblib
+
+# Generated results and plots
+plots/
+results/
+training_full_log.txt
+*.log
+
+# Local temporary files
+cls
+python
+.DS_Store
+Thumbs.db
