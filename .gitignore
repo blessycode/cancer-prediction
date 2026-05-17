@@ -34,8 +34,7 @@ experiments/
 *.joblib
 
 # Generated results and plots
-plots/
-results/
+
 training_full_log.txt
 *.log
 

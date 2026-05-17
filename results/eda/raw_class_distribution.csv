@@ -1,0 +1,65 @@
+class_label,description,count,percentage
+A,Adenocarcinoma,9,0.3
+A,Atypical glandular cells,0,0.0
+A,Atypical squamous cells of undetermined significance,0,0.0
+A,"Atypical squamous cells, cannot exclude HSIL",0,0.0
+A,High-grade squamous intraepithelial lesion,0,0.0
+A,Low-grade squamous intraepithelial lesion,0,0.0
+A,Negative for intraepithelial lesion or malignancy,0,0.0
+A,Squamous carcinoma,0,0.0
+AGC,Adenocarcinoma,0,0.0
+AGC,Atypical glandular cells,116,3.8666666666666667
+AGC,Atypical squamous cells of undetermined significance,0,0.0
+AGC,"Atypical squamous cells, cannot exclude HSIL",0,0.0
+AGC,High-grade squamous intraepithelial lesion,0,0.0
+AGC,Low-grade squamous intraepithelial lesion,0,0.0
+AGC,Negative for intraepithelial lesion or malignancy,0,0.0
+AGC,Squamous carcinoma,0,0.0
+ASC-H,Adenocarcinoma,0,0.0
+ASC-H,Atypical glandular cells,0,0.0
+ASC-H,Atypical squamous cells of undetermined significance,0,0.0
+ASC-H,"Atypical squamous cells, cannot exclude HSIL",183,6.1
+ASC-H,High-grade squamous intraepithelial lesion,0,0.0
+ASC-H,Low-grade squamous intraepithelial lesion,0,0.0
+ASC-H,Negative for intraepithelial lesion or malignancy,0,0.0
+ASC-H,Squamous carcinoma,0,0.0
+ASC-US,Adenocarcinoma,0,0.0
+ASC-US,Atypical glandular cells,0,0.0
+ASC-US,Atypical squamous cells of undetermined significance,518,17.266666666666666
+ASC-US,"Atypical squamous cells, cannot exclude HSIL",0,0.0
+ASC-US,High-grade squamous intraepithelial lesion,0,0.0
+ASC-US,Low-grade squamous intraepithelial lesion,0,0.0
+ASC-US,Negative for intraepithelial lesion or malignancy,0,0.0
+ASC-US,Squamous carcinoma,0,0.0
+HSIL,Adenocarcinoma,0,0.0
+HSIL,Atypical glandular cells,0,0.0
+HSIL,Atypical squamous cells of undetermined significance,0,0.0
+HSIL,"Atypical squamous cells, cannot exclude HSIL",0,0.0
+HSIL,High-grade squamous intraepithelial lesion,397,13.233333333333333
+HSIL,Low-grade squamous intraepithelial lesion,0,0.0
+HSIL,Negative for intraepithelial lesion or malignancy,0,0.0
+HSIL,Squamous carcinoma,0,0.0
+LSIL,Adenocarcinoma,0,0.0
+LSIL,Atypical glandular cells,0,0.0
+LSIL,Atypical squamous cells of undetermined significance,0,0.0
+LSIL,"Atypical squamous cells, cannot exclude HSIL",0,0.0
+LSIL,High-grade squamous intraepithelial lesion,0,0.0
+LSIL,Low-grade squamous intraepithelial lesion,319,10.633333333333333
+LSIL,Negative for intraepithelial lesion or malignancy,0,0.0
+LSIL,Squamous carcinoma,0,0.0
+NILM,Adenocarcinoma,0,0.0
+NILM,Atypical glandular cells,0,0.0
+NILM,Atypical squamous cells of undetermined significance,0,0.0
+NILM,"Atypical squamous cells, cannot exclude HSIL",0,0.0
+NILM,High-grade squamous intraepithelial lesion,0,0.0
+NILM,Low-grade squamous intraepithelial lesion,0,0.0
+NILM,Negative for intraepithelial lesion or malignancy,1447,48.233333333333334
+NILM,Squamous carcinoma,0,0.0
+SC,Adenocarcinoma,0,0.0
+SC,Atypical glandular cells,0,0.0
+SC,Atypical squamous cells of undetermined significance,0,0.0
+SC,"Atypical squamous cells, cannot exclude HSIL",0,0.0
+SC,High-grade squamous intraepithelial lesion,0,0.0
+SC,Low-grade squamous intraepithelial lesion,0,0.0
+SC,Negative for intraepithelial lesion or malignancy,0,0.0
+SC,Squamous carcinoma,11,0.36666666666666664
